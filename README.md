@@ -23,6 +23,13 @@ To start working on projects with the ESP8266, you'll typically need the followi
 *   **Text Editor/IDE:** Your preferred code editor (e.g., VS Code with PlatformIO IDE extension, Sublime Text).
 *   **Drivers:** Ensure you have the necessary drivers installed for your USB-to-serial adapter.
 
+## Documentation
+
+For more detailed information about the ESP8266, please refer to the official documentation available in this repository:
+
+*   [ESP8266EX Datasheet](./documents/0a-esp8266ex_datasheet_en.pdf) - A comprehensive datasheet for the ESP8266EX chip.
+*   [ESP8266 Quick Start Guide](./documents/esp8266_quick_start_guide_en.pdf) - A guide to help you get started with the ESP8266.
+
 ## Projects
 
 This section will list the various projects included in this repository. Each project will typically reside in its own subdirectory and contain its specific source code, documentation, and any other relevant files.
